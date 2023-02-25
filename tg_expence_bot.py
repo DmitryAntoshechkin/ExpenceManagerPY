@@ -14,7 +14,7 @@ event = ''
 expence = 0
 history_index = 0
 
-API_KEY = '6169568942:AAGfBIaGzIblmCELuGpnR8nAG9g6Xc9rNlI'
+API_KEY = '6169568942:AAGfBIaGzIblm.......GpnR8nAG9g6Xc9rNlI'
 bot = telebot.TeleBot(API_KEY)
 
 def Selection(message): #Поиск расходов по параметрам. Реализован только строгий поиск по полному совпадению
